@@ -4,7 +4,7 @@ slug: hello-world
 description: >-
   Horrela hasten dira proiektu guztiak.
 tags:
-  - personal
+  - pertsonala
 added: "2025-11-3"
 ---
 

@@ -15,7 +15,7 @@ let {
 } = Astro.props;
 
 added = new Date(added).toLocaleDateString(
-	"en-us",
+	"eu",
 	{
 		year: "numeric",
 		month: "short",
@@ -25,7 +25,7 @@ added = new Date(added).toLocaleDateString(
 
 if (updated) {
 	updated = new Date(updated).toLocaleDateString(
-		"en-us",
+		"eu",
 		{
 			year: "numeric",
 			month: "short",
@@ -35,7 +35,7 @@ if (updated) {
 }
 ---
 
-<html lang="en-us">
+<html lang="eu">
 	<BaseHead title={title} description={description} />
 
 	<body>

@@ -1,11 +1,11 @@
 ---
-title: Hello, world!
+title: Kaixo, Mundua!
 slug: hello-world
 description: >-
-  This is an example blog!
+  Horrela hasten dira proiektu guztiak.
 tags:
   - personal
-added: "May 01 2024"
+added: "2025-11-3"
 ---
 
-This is an example blog post!
+Kaixo, Mundua! Horrela hasten dira proiektu guztiak frikien munduan. Nik nire proiektu hau horrela hasiko dut, espero dut jarraipena ematea. Nire blogarekin nator, edo nire interneteko txokoa, edo nire lorategi digitala. Edonola ere, korporazio teknokapitalisten atzaparretatik urrun mantenduz, nire pedradak, katxarreoak, eta abar luze bat partekatzeko asmoz sortu dut blog hau.

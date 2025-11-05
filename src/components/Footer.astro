@@ -3,12 +3,49 @@ const today = new Date();
 ---
 
 <footer>
-	{today.getFullYear()} aitor c. urrutia aranburu · <a href="https://github.com/txarli/txarli.dev">blog honen kodea irekia da</a>! <3
+  <div>
+    {today.getFullYear()} aitor c. urrutia aranburu · <a
+      href="https://github.com/txarli/txarli.dev">blog honen kodea irekia da</a
+    >! <3
+  </div>
+
+  <div class="license">
+    <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a
+    ><img
+      src="https://mirrors.creativecommons.org/presskit/icons/cc.svg"
+      alt=""
+      style="max-width: 1em;max-height:1em;margin-left: .2em;"
+    /><img
+      src="https://mirrors.creativecommons.org/presskit/icons/by.svg"
+      alt=""
+      style="max-width: 1em;max-height:1em;margin-left: .2em;"
+    /><img
+      src="https://mirrors.creativecommons.org/presskit/icons/sa.svg"
+      alt=""
+      style="max-width: 1em;max-height:1em;margin-left: .2em;"
+    />
+  </div>
 </footer>
 <style>
-	footer {
-		padding: 25px;
-		text-align: center;
-		font-size: 0.8rem;
-	}
+  footer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.8em;
+    padding: 25px;
+    text-align: center;
+    font-size: 0.8rem;
+	margin-top: 2em;
+  }
+
+  .license {
+    display: flex;
+    align-items: center;
+    gap: 0.3em;
+  }
+
+  .license > a,
+  .license > img {
+    display: inline-block;
+  }
 </style>

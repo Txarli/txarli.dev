@@ -26,18 +26,18 @@ Behin instalatuta, zure DHCP zerbitzarian DNS zerbitzari bezala Pi-Hole gailua k
 
 ### Konfigurazioa: blokeo zerrendak
 
-Pi-Hole instalazioan, blokeo zerrenda bat lehenetsita dator. Zerrenda honek, 100.000 DNS baino gehiago blokeatuko ditu eta, nire kasuan behintzat, aski izan zen gehien erabiltzen ditudan webguneen iragarkiak blokeatzeko. Hale ere, pixka bat haratago joatea erabaki nuen eta (Githuben "hagezi" erabiltzaileak sortutako zerrenda hauek konfiguratu nituen)[https://github.com/hagezi/dns-blocklists]. Oso eguneratuta daude eta gaika sailkatzen dira. Nik, hurrengo zerrendak sartu nituen:
+Pi-Hole instalazioan, blokeo zerrenda bat lehenetsita dator. Zerrenda honek, 100.000 DNS baino gehiago blokeatuko ditu eta, nire kasuan behintzat, aski izan zen gehien erabiltzen ditudan webguneen iragarkiak blokeatzeko. Hale ere, pixka bat haratago joatea erabaki nuen eta [Githuben "hagezi" erabiltzaileak sortutako zerrenda hauek konfiguratu nituen](https://github.com/hagezi/dns-blocklists). Oso eguneratuta daude eta gaika sailkatzen dira. Nik, hurrengo zerrendak sartu nituen:
 
-- (Multi PRO)[https://github.com/hagezi/dns-blocklists#pro]: oinarrizko DNS orokorrak.
-- (Intelligence)[https://github.com/hagezi/dns-blocklists#tif]: segurtasuna hobetzeko.
-- (Gambling)[https://github.com/hagezi/dns-blocklists#gambling]: online apostu etxeak ekiditeko.
-- (NSFW)[https://github.com/hagezi/dns-blocklists#nsfw]: online pornografia ekiditeko.
+- [Multi PRO](https://github.com/hagezi/dns-blocklists#pro): oinarrizko DNS orokorrak.
+- [Intelligence](https://github.com/hagezi/dns-blocklists#tif): segurtasuna hobetzeko.
+- [Gambling](https://github.com/hagezi/dns-blocklists#gambling): online apostu etxeak ekiditeko.
+- [NSFW](https://github.com/hagezi/dns-blocklists#nsfw): online pornografia ekiditeko.
 
 Zerrenda hauekin, milaka DNS blokeatu ditut eta ez dut inoiz sentitu nire nabigazioa oztopatzen zenik.
 
 ## PiVPN
 
-PiVPN instalatzeko, hoberena da (iturrira joatea)[https://www.pivpn.io/]. Erabiltzeko, hurrengoa beharko duzu:
+PiVPN instalatzeko, hoberena da [iturrira joatea](https://www.pivpn.io/). Erabiltzeko, hurrengoa beharko duzu:
 - Raspberry Pi gailu bat.
 - Zuk kudeatzen duzun domeinu izen bat.
 - WAN aldeko IP fijoa, edo dyndns moduko bat. Nik, script bat sortu nuen hau lortzeko, baina hurrengo post batean azalduko dut.

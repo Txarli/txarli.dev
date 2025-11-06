@@ -34,6 +34,9 @@ const { title, description, image = "/home-blog-card.png" } = Astro.props;
   <meta name="twitter:creator" content="@cassidoo" />
   <meta name="twitter:image" content={new URL(image, Astro.url)} />
 
+  <!-- Fediverse -->
+  <meta name="fediverse:creator" content="@txarli@mastodon.eus" />
+
   <!-- RSS Link -->
   <link
     rel="alternate"

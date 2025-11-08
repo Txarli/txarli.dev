@@ -6,6 +6,7 @@ description: >-
 tags:
   - katxarreoa
 added: "2025-11-5"
+updated: "2025-11-8"
 ---
 
 Etxean, beti daukagu [Raspberry Pi](https://www.raspberrypi.com/) bat sarera konektatuta. Honekin, hamaika erreminta jarri ditut martxan: produkzioan dauzkadan webguneen babes kopiak egiten ditut, prototipoak frogatu ditut, webguneak ostatu... Urrutira joan gabe, webgune hau Raspberry Pi batean ostatuta dago.
@@ -40,6 +41,6 @@ Zerrenda hauekin, milaka DNS blokeatu ditut eta ez dut inoiz sentitu nire nabiga
 PiVPN instalatzeko, hoberena da [iturrira joatea](https://www.pivpn.io/). Erabiltzeko, hurrengoa beharko duzu:
 - Raspberry Pi gailu bat.
 - Zuk kudeatzen duzun domeinu izen bat.
-- WAN aldeko IP fijoa, edo dyndns moduko bat. Nik, script bat sortu nuen hau lortzeko, baina hurrengo post batean azalduko dut.
+- WAN aldeko IP fijoa, edo dyndns moduko bat. Nik, script bat sortu nuen hau lortzeko, baina hurrengo post batean azalduko dut. _Edit: [hau da agindutako post hori :)](https://txarli.dev/post/dyndns-kaxeroa/)._
 
 Behin webgunean azaltzen den instalazio komandoa erabilita, aski duzu pausoak jarraitzearekin. Oso oso erraza da! Hau eginda, zure mugikorra, ordenagailu eramangarria edo beste edozein gailu VPN honetara konektatzen duzunean, zure etxeko sareko zerbitzuak erabiliko dituzu, zuk kudeatutako Pi-Hole hori barne.

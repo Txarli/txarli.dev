@@ -2,7 +2,7 @@
 title: Proiektutxoak zure etxean ostatzeko bi modu
 slug: dyndns-kaxeroa
 description: >-
-  Nola lortu, IP finkorik ez duzunean, domeinu batek zure etxeko zerbitzaritxo batera apuntatzea?.
+  Nola lortu, IP finkorik ez duzunean, domeinu batek zure etxeko zerbitzaritxo batera apuntatzea?
 tags:
   - katxarreoa
 added: "2025-11-8"

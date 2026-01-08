@@ -1,5 +1,5 @@
 ---
-title: Gure musika liburutegia zure sarean streameatzeko proposamen bat
+title: Gure musika bilduma gure sarean streameatzeko proposamen bat
 slug: musika-bilduma-streameatu
 description: >-
   Sareetan azaltzen den #despotify mugimendua jarraitzeko modu bat, Navidrome eta Metadata Remote erabilita.

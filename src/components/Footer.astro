@@ -1,4 +1,6 @@
 ---
+import { Image } from "astro:assets";
+
 const today = new Date();
 ---
 
@@ -10,19 +12,29 @@ const today = new Date();
   </div>
 
   <div class="license">
-    <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.eu">CC BY-SA 4.0</a
-    ><img
+    <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.eu"
+      >CC BY-SA 4.0</a
+    ><Image
       src="https://mirrors.creativecommons.org/presskit/icons/cc.svg"
       alt=""
-      style="max-width: 1em;max-height:1em;margin-left: .2em;"
-    /><img
+      class="license-icon"
+      width={16}
+      height={16}
+      loading="lazy"
+    /><Image
       src="https://mirrors.creativecommons.org/presskit/icons/by.svg"
       alt=""
-      style="max-width: 1em;max-height:1em;margin-left: .2em;"
-    /><img
+      class="license-icon"
+      width={16}
+      height={16}
+      loading="lazy"
+    /><Image
       src="https://mirrors.creativecommons.org/presskit/icons/sa.svg"
       alt=""
-      style="max-width: 1em;max-height:1em;margin-left: .2em;"
+      class="license-icon"
+      width={16}
+      height={16}
+      loading="lazy"
     />
   </div>
 </footer>
@@ -35,7 +47,7 @@ const today = new Date();
     padding: 25px;
     text-align: center;
     font-size: 0.8rem;
-	margin-top: 2em;
+    margin-top: 2em;
   }
 
   .license {
@@ -44,8 +56,13 @@ const today = new Date();
     gap: 0.3em;
   }
 
-  .license > a,
-  .license > img {
+  .license > a {
+  }
+
+  .license-icon {
     display: inline-block;
+    max-width: 1em;
+    max-height: 1em;
+    margin-left: 0.2em;
   }
 </style>

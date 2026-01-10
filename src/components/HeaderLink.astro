@@ -1,6 +1,6 @@
 ---
 const { href, class: className, ...props } = Astro.props;
-let isActive;
+let isActive: boolean;
 
 if (href === "/") {
 	isActive = Astro.url.pathname === href;
@@ -13,6 +13,7 @@ if (href === "/") {
 <a href={href} class:list={[className, { active: isActive }]} {...props}>
 	<slot />
 </a>
+
 <style>
 	a {
 		display: inline-block;

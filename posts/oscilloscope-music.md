@@ -18,6 +18,6 @@ Nire burua untxi-gordeleku batean ikusi nuen. Izan ere, ["Oscilloscope Music"](h
 
 _Oscilloscope Music_ webgune hartan musika estilo hau egiteko software-a, paper-ak eta erreferentziak aurkitu daitezke. Honatx adibide bat. Pentsa bideoan ikusten dena osziloskopio bat dela:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/R9jOWIhZZCE?si=cLjXRuw72D2Jmt9h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" height="400px" src="https://www.youtube-nocookie.com/embed/R9jOWIhZZCE?si=cLjXRuw72D2Jmt9h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Honen atzean dauden esfortzu eta sormenak txundituta utzi naute. Gainera, nire elektronika ingeniaritza garaietara eramaten naute, osziloskopioaren aurrean orduak pasatzen nituen garaietara. Bonus bezala, izugarria iruditu zait albuma 3.5" diskete formatuan saltzen dutela ikustea.

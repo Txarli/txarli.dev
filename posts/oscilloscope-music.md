@@ -4,7 +4,7 @@ slug: oscilloscope-music
 description: >-
   Oscilloscope Music musika generoa aurkitu nuenekoa.
 tags:
-  - inspirazioa
+  - pertsonala
 added: "2026-1-21"
 updated: "2026-1-22"
 ---

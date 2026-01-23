@@ -124,9 +124,14 @@ header {
 }
 
 a {
+	display: inline-block;
 	color: var(--black);
 	text-decoration-thickness: 0.3ex;
 	text-underline-offset: 0.3ex;
+}
+
+a:hover {
+	transform: translate(-4px, -4px);
 }
 
 nav {

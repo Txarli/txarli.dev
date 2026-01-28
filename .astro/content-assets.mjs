@@ -1,4 +1,7 @@
 
 import __ASTRO_IMAGE_IMPORT_17cH5r from "../assets/dyndns-kaxeroa/dyndns-kaxeroa.svg?astroContentImageFlag=&importer=posts%2Fdyndns-kaxeroa.md";
-export default new Map([["../assets/dyndns-kaxeroa/dyndns-kaxeroa.svg?astroContentImageFlag=&importer=posts%2Fdyndns-kaxeroa.md", __ASTRO_IMAGE_IMPORT_17cH5r]]);
+import __ASTRO_IMAGE_IMPORT_Z20yt5C from "../assets/hay-algo-de-negocio-en-tu-codigo/arrival.jpg?astroContentImageFlag=&importer=posts%2Fun-enfoque-pragmatico-de-nuestros-tests-del-frontend.md";
+import __ASTRO_IMAGE_IMPORT_28bbst from "../assets/hay-algo-de-negocio-en-tu-codigo/arrival.jpg?astroContentImageFlag=&importer=posts%2Fhay-algo-de-negocio-en-tu-codigo.md";
+import __ASTRO_IMAGE_IMPORT_Z84Mlf from "../assets/enfoque-pragmatico-test/marrazkia.jpg?astroContentImageFlag=&importer=posts%2Fun-enfoque-pragmatico-de-nuestros-tests-del-frontend.md";
+export default new Map([["../assets/dyndns-kaxeroa/dyndns-kaxeroa.svg?astroContentImageFlag=&importer=posts%2Fdyndns-kaxeroa.md", __ASTRO_IMAGE_IMPORT_17cH5r], ["../assets/hay-algo-de-negocio-en-tu-codigo/arrival.jpg?astroContentImageFlag=&importer=posts%2Fun-enfoque-pragmatico-de-nuestros-tests-del-frontend.md", __ASTRO_IMAGE_IMPORT_Z20yt5C], ["../assets/hay-algo-de-negocio-en-tu-codigo/arrival.jpg?astroContentImageFlag=&importer=posts%2Fhay-algo-de-negocio-en-tu-codigo.md", __ASTRO_IMAGE_IMPORT_28bbst], ["../assets/enfoque-pragmatico-test/marrazkia.jpg?astroContentImageFlag=&importer=posts%2Fun-enfoque-pragmatico-de-nuestros-tests-del-frontend.md", __ASTRO_IMAGE_IMPORT_Z84Mlf]]);
 		

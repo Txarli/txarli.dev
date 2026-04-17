@@ -18,7 +18,7 @@ Ez nekien oso ongi nondik hasi bidai hau. Interneten arakatuta, Reddit-en pertso
 
 > Listen to them chronologically, excluding Yellow Submarine, switching Abbey Road and Let It Be, and swapping out Let It Be for the superior Naked version. After that, listen through Past Master for their non-album singles and finally finish it all of with a listen to Love. 
 
-Gauzak horrela eta interneteko pertsona ezezagun horren jakituriari jarraituz, hau da jarraitutako ordena:
+Bereziki interesgarria iruditzen zait taldearen eboluzioa ikustea. Gauzak horrela eta interneteko pertsona ezezagun horren jakituriari jarraituz, hau da jarraitutako ordena:
 
 1. Please Please Me
 2. With The Beatles
@@ -33,3 +33,7 @@ Gauzak horrela eta interneteko pertsona ezezagun horren jakituriari jarraituz, h
 11. Abbey Road
 12. Past Masters
 13. Love
+
+## Alternatiba irisgarriago bat
+
+Reddit-en aurkitutako beste erabiltzaile batek, alternatiba bezala, [abiapuntu bezala One bilduma diska erabiltzea planteatzen du](https://www.reddit.com/r/beatles/comments/t9r40x/my_recommended_order_of_first_listening_to/). Hortik, gustokoen zaizkigun etapa edota kantei tiraka, The Beatles-en disketan murgiltzea planteatzen du. Nik bide "luzea" jarraitzea erabaki dudan arren, ibilbide-orri interesgarria iruditzen zait nekatzen banaiz jarraitzeko.
